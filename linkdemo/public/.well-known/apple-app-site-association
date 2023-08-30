@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": ["WTG7RTG947.me.michaelfcollins3.AppLinks"],
+                "components": [
+                    {
+                        "/": "/",
+                        "comment": "Capture the home page"
+                    },
+                    {
+                        "/": "/create",
+                        "comment": "Create action"
+                    },
+                    {
+                        "/": "/test/*",
+                        "comment": "Catch everything"
+                    }
+                ]
+            }
+        ]
+    }
+}
